@@ -1,6 +1,6 @@
 # IntelliSearchAI
 
-COLOCAR DESCRIÇÃO BONITA DO PROJETO E SUAS FUNCIONALIDADES
+Desenvolvimento do *Projeto em Ciência de Dados I* do curso de *Ciência de Dados e Inteligência Artificial* da PUCRS
 
 ## Requisitos
 
